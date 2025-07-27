@@ -2,8 +2,8 @@
 
 ## Overview
 
-This repository contains the source code and resources for your project.  
-It is organized to help you easily navigate and understand the structure.
+This repository contains the source code and resources for my project.  
+It is organized to easily navigate and understand the structure.
 -
 -
 -
